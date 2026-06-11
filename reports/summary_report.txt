@@ -1,0 +1,50 @@
+======================================================================
+STUDENT ENGAGEMENT & OUTCOMES TRACKER — STRATEGIC SUMMARY REPORT
+======================================================================
+
+OVERVIEW
+--------
+This report synthesizes data from 300 student participants across 5 semesters
+and 4 experiential learning programs. Findings draw on quantitative pre/post
+survey data, attendance tracking, and qualitative open-response analysis.
+
+KEY FINDINGS
+------------
+1. LEARNING GAINS: Students showed an average overall gain of 1.02 points
+   (on a 1–5 scale) across confidence, skill readiness, and engagement metrics.
+   The strongest semester was Spring 2024; gains were lowest in Fall 2022,
+   suggesting a possible program delivery or cohort composition factor worth investigating.
+
+2. PROGRAM PERFORMANCE: 'Career Readiness' consistently produced the highest
+   learning gains. Cross-program replication of its delivery model is recommended.
+
+3. PERSISTENCE & OUTCOMES: 57.0% of students persisted through
+   at least half of program sessions. Among persisters, 39.0% secured
+   an internship or job — indicating a strong link between program engagement and
+   career outcomes.
+
+4. QUALITATIVE THEMES: The most frequently cited theme across open responses was
+   'Program Structure & Resources' (34.0% of responses). Sentiment analysis
+   shows 225 positive, 9 neutral, and 66 negative responses.
+   22.0% of responses flagged areas for improvement — primarily around
+   scheduling flexibility and access to advising resources.
+
+5. EQUITY LENS: First-generation students showed an average overall gain of 1.02
+   vs. 1.01 for non-first-gen peers (gap: -0.01).
+   No significant equity gap detected — positive sign for program inclusivity.
+
+RECOMMENDATIONS
+---------------
+• Scale delivery elements from the highest-performing program to other pathways.
+• Introduce mid-semester check-in surveys to improve early identification of at-risk students.
+• Add flexible scheduling options and expand advising touchpoints (flagged in 'Areas for Improvement').
+• Develop targeted outreach for first-generation students in lower-performing semesters.
+• Establish a semester-over-semester dashboard review cadence with program leads.
+
+DATA NOTES
+----------
+• 0 records flagged for missing Likert data (excluded from gain calculations).
+• Qualitative themes extracted via keyword matching; manual review recommended for nuance.
+• All data is synthetic and for demonstration purposes only.
+
+======================================================================

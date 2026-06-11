@@ -1,0 +1,301 @@
+student_id,semester,program,gender,race_ethnicity,first_generation,year,college,pre_confidence,pre_skill_readiness,pre_engagement,post_confidence,post_skill_readiness,post_engagement,sessions_attended,total_sessions,attendance_rate,persisted,secured_internship_job,gpa_change,open_response
+1001,Fall 2022,Leadership Development,Male,Black/African American,True,Freshman,Education,1,4,1,1,5,1,4,12,0.33,False,False,0.08,The resources were helpful but hard to find sometimes.
+1003,Spring 2024,Leadership Development,Female,Black/African American,False,Junior,Liberal Arts,2,2,3,2,3,3,5,12,0.42,False,False,0.09,The program was okay but I wish there were more flexible scheduling options.
+1004,Spring 2024,Experiential Learning,Non-binary,Other,False,Sophomore,Engineering,1,2,3,3,4,5,8,12,0.67,True,False,0.08,I developed stronger communication and leadership skills.
+1007,Spring 2023,Leadership Development,Female,Multiracial,True,Sophomore,Business,4,4,3,5,5,5,1,12,0.08,False,True,-0.19,I developed stronger communication and leadership skills.
+1011,Fall 2023,Experiential Learning,Male,Multiracial,False,Sophomore,Sciences,4,4,2,5,5,3,10,12,0.83,True,True,0.19,I developed stronger communication and leadership skills.
+1013,Spring 2023,Community Engagement,Female,Asian,True,Sophomore,Business,4,1,4,5,2,5,1,12,0.08,False,False,-0.15,The program connected me with peers who share my interests.
+1016,Fall 2022,Leadership Development,Prefer not to say,Black/African American,False,Freshman,Liberal Arts,2,1,3,3,2,4,3,12,0.25,False,False,0.11,The workshops helped me build real-world skills I can use immediately.
+1021,Fall 2023,Community Engagement,Female,Asian,False,Junior,Business,1,2,1,1,2,2,3,12,0.25,False,True,-0.01,The program felt disconnected from my major.
+1023,Fall 2023,Community Engagement,Male,Multiracial,True,Junior,Sciences,3,4,4,3,5,5,4,12,0.33,False,False,-0.2,The workshops helped me build real-world skills I can use immediately.
+1025,Fall 2022,Experiential Learning,Non-binary,Asian,True,Junior,Sciences,2,2,4,3,3,4,11,12,0.92,True,True,0.11,I appreciated the structured feedback from program advisors.
+1026,Fall 2022,Experiential Learning,Prefer not to say,Other,False,Freshman,Business,2,2,4,2,3,5,2,12,0.17,False,False,0.14,I felt more confident after completing the program milestones.
+1027,Fall 2024,Experiential Learning,Female,Black/African American,True,Senior,Sciences,4,2,4,5,3,5,8,12,0.67,True,True,0.25,I appreciated the structured feedback from program advisors.
+1029,Spring 2023,Leadership Development,Male,Asian,True,Junior,Engineering,1,4,2,1,5,2,2,12,0.17,False,False,-0.11,The program was okay but I wish there were more flexible scheduling options.
+1034,Spring 2023,Experiential Learning,Female,White,False,Junior,Business,3,2,3,4,3,4,2,12,0.17,False,True,0.05,I felt more confident after completing the program milestones.
+1035,Fall 2024,Career Readiness,Non-binary,Black/African American,False,Freshman,Business,3,3,2,4,4,4,11,12,0.92,True,True,0.23,The program connected me with peers who share my interests.
+1036,Spring 2023,Leadership Development,Female,Asian,True,Junior,Liberal Arts,2,3,2,4,4,3,1,12,0.08,False,True,-0.03,The program connected me with peers who share my interests.
+1037,Fall 2022,Leadership Development,Male,Other,False,Sophomore,Sciences,4,1,1,5,2,2,6,12,0.5,True,False,-0.03,Some sessions were more useful than others.
+1038,Fall 2023,Leadership Development,Female,Hispanic/Latino,True,Sophomore,Engineering,3,4,2,4,5,4,3,12,0.25,False,False,-0.19,I developed stronger communication and leadership skills.
+1042,Spring 2023,Leadership Development,Male,Other,True,Senior,Engineering,4,2,2,5,3,4,4,12,0.33,False,True,0.06,The hands-on projects gave me practical experience beyond coursework.
+1045,Fall 2023,Experiential Learning,Non-binary,Hispanic/Latino,False,Junior,Engineering,1,3,2,2,4,3,6,12,0.5,True,False,0.06,Some sessions were more useful than others.
+1050,Fall 2022,Community Engagement,Male,Hispanic/Latino,True,Senior,Engineering,2,3,4,3,3,4,2,12,0.17,False,False,-0.08,The program connected me with peers who share my interests.
+1054,Fall 2023,Community Engagement,Non-binary,Multiracial,True,Sophomore,Sciences,4,2,3,5,3,4,10,12,0.83,True,False,0.06,I appreciated the structured feedback from program advisors.
+1058,Spring 2023,Community Engagement,Male,Other,True,Junior,Education,3,1,2,4,2,3,4,12,0.33,False,False,0.04,I felt more confident after completing the program milestones.
+1062,Spring 2024,Career Readiness,Prefer not to say,White,False,Sophomore,Business,1,1,4,2,2,5,9,12,0.75,True,True,0.32,I appreciated the structured feedback from program advisors.
+1064,Spring 2024,Leadership Development,Prefer not to say,Multiracial,False,Senior,Business,4,4,3,5,5,5,8,12,0.67,True,False,0.04,I felt more confident after completing the program milestones.
+1067,Spring 2023,Leadership Development,Non-binary,Hispanic/Latino,True,Sophomore,Business,2,4,2,3,5,3,7,12,0.58,True,True,0.32,The hands-on projects gave me practical experience beyond coursework.
+1072,Fall 2022,Community Engagement,Prefer not to say,Asian,False,Junior,Sciences,4,2,4,5,2,5,11,12,0.92,True,False,0.26,I appreciated the structured feedback from program advisors.
+1074,Fall 2024,Experiential Learning,Prefer not to say,Multiracial,True,Freshman,Sciences,2,4,2,2,4,2,7,12,0.58,True,True,0.38,The resources were helpful but hard to find sometimes.
+1077,Fall 2022,Community Engagement,Female,Other,True,Junior,Business,1,1,1,2,2,2,3,12,0.25,False,False,-0.15,Some sessions were more useful than others.
+1081,Fall 2023,Leadership Development,Male,Multiracial,True,Sophomore,Liberal Arts,1,1,3,2,2,5,4,12,0.33,False,True,0.08,I learned how to network effectively and landed an internship.
+1082,Fall 2023,Experiential Learning,Female,Hispanic/Latino,False,Junior,Engineering,3,1,4,4,3,5,8,12,0.67,True,False,0.12,The program connected me with peers who share my interests.
+1087,Fall 2024,Community Engagement,Prefer not to say,White,False,Junior,Business,1,3,4,2,4,5,1,12,0.08,False,False,-0.07,I appreciated the structured feedback from program advisors.
+1089,Fall 2023,Leadership Development,Non-binary,Hispanic/Latino,False,Freshman,Education,2,1,2,3,3,4,11,12,0.92,True,False,0.12,The workshops helped me build real-world skills I can use immediately.
+1090,Fall 2023,Career Readiness,Prefer not to say,Other,True,Junior,Education,3,4,3,4,5,4,5,12,0.42,False,False,-0.11,I learned how to network effectively and landed an internship.
+1093,Fall 2022,Career Readiness,Male,Black/African American,False,Junior,Education,3,1,2,4,2,3,3,12,0.25,False,True,0.19,The program was okay but I wish there were more flexible scheduling options.
+1096,Spring 2023,Community Engagement,Female,Asian,False,Senior,Sciences,4,3,2,5,5,3,2,12,0.17,False,False,-0.17,I would have liked more one-on-one advising time.
+1097,Spring 2023,Career Readiness,Non-binary,Asian,True,Freshman,Education,4,2,4,5,3,5,5,12,0.42,False,False,-0.18,I felt more confident after completing the program milestones.
+1099,Spring 2023,Leadership Development,Female,Black/African American,True,Sophomore,Education,1,2,1,2,3,1,5,12,0.42,False,False,0.08,The resources were helpful but hard to find sometimes.
+1100,Spring 2023,Leadership Development,Male,White,True,Sophomore,Business,3,2,1,4,3,2,5,12,0.42,False,False,-0.01,I would have liked more one-on-one advising time.
+1104,Fall 2023,Community Engagement,Prefer not to say,Asian,True,Senior,Liberal Arts,3,1,1,4,2,2,1,12,0.08,False,False,0.07,I would have liked more one-on-one advising time.
+1109,Fall 2022,Career Readiness,Prefer not to say,Multiracial,False,Junior,Business,4,4,1,5,5,2,3,12,0.25,False,True,0.08,I would have liked more one-on-one advising time.
+1113,Fall 2024,Experiential Learning,Prefer not to say,Asian,False,Junior,Liberal Arts,1,4,1,2,5,2,6,12,0.5,True,False,0.15,The resources were helpful but hard to find sometimes.
+1114,Spring 2023,Leadership Development,Male,Hispanic/Latino,False,Senior,Engineering,1,2,2,1,3,3,2,12,0.17,False,False,-0.15,The mentorship component was incredibly valuable for my career path.
+1118,Fall 2023,Leadership Development,Prefer not to say,White,False,Sophomore,Sciences,2,4,2,4,5,4,5,12,0.42,False,False,0.14,I developed stronger communication and leadership skills.
+1123,Fall 2023,Experiential Learning,Non-binary,Other,False,Senior,Business,4,4,3,5,5,4,4,12,0.33,False,False,-0.1,The hands-on projects gave me practical experience beyond coursework.
+1125,Spring 2024,Experiential Learning,Non-binary,Other,False,Senior,Sciences,2,4,1,3,5,1,8,12,0.67,True,True,0.36,The program was okay but I wish there were more flexible scheduling options.
+1127,Spring 2024,Career Readiness,Female,White,False,Junior,Education,4,1,3,5,2,4,12,12,1.0,True,False,0.14,The workshops helped me build real-world skills I can use immediately.
+1132,Fall 2022,Career Readiness,Non-binary,Black/African American,True,Senior,Engineering,1,4,2,3,5,4,5,12,0.42,False,False,-0.03,I learned how to network effectively and landed an internship.
+1137,Spring 2024,Career Readiness,Male,Black/African American,True,Senior,Education,2,4,2,3,5,3,8,12,0.67,True,False,0.24,The mentorship component was incredibly valuable for my career path.
+1138,Spring 2024,Leadership Development,Non-binary,Other,False,Junior,Sciences,3,2,4,4,3,5,5,12,0.42,False,False,-0.08,The hands-on projects gave me practical experience beyond coursework.
+1141,Fall 2022,Experiential Learning,Prefer not to say,Hispanic/Latino,True,Junior,Business,2,3,2,3,4,3,8,12,0.67,True,True,0.08,The mentorship component was incredibly valuable for my career path.
+1142,Fall 2023,Leadership Development,Prefer not to say,Black/African American,True,Sophomore,Education,3,3,2,4,4,3,12,12,1.0,True,False,0.3,I appreciated the structured feedback from program advisors.
+1143,Spring 2023,Career Readiness,Prefer not to say,Multiracial,False,Freshman,Sciences,1,3,1,2,4,2,11,12,0.92,True,False,-0.05,Some sessions were more useful than others.
+1147,Fall 2022,Leadership Development,Male,Other,True,Senior,Liberal Arts,4,1,2,4,2,2,4,12,0.33,False,False,-0.15,The resources were helpful but hard to find sometimes.
+1150,Fall 2024,Community Engagement,Male,White,True,Senior,Education,4,3,1,5,4,2,6,12,0.5,True,True,0.24,The program felt disconnected from my major.
+1153,Fall 2022,Community Engagement,Non-binary,Black/African American,True,Senior,Engineering,2,1,1,3,2,2,2,12,0.17,False,False,0.02,The program felt disconnected from my major.
+1155,Spring 2023,Leadership Development,Male,Multiracial,True,Junior,Business,2,3,2,3,3,2,4,12,0.33,False,False,-0.19,I would have liked more one-on-one advising time.
+1156,Spring 2023,Community Engagement,Female,Other,True,Senior,Sciences,3,1,4,4,2,5,11,12,0.92,True,False,0.13,The workshops helped me build real-world skills I can use immediately.
+1157,Spring 2024,Community Engagement,Prefer not to say,Other,True,Senior,Sciences,1,1,3,2,2,4,9,12,0.75,True,False,0.09,The program connected me with peers who share my interests.
+1161,Fall 2024,Community Engagement,Female,Other,True,Sophomore,Sciences,4,2,4,5,3,4,7,12,0.58,True,True,0.03,The mentorship component was incredibly valuable for my career path.
+1165,Fall 2022,Experiential Learning,Female,Asian,False,Freshman,Liberal Arts,2,1,3,3,3,5,7,12,0.58,True,False,0.26,The program connected me with peers who share my interests.
+1170,Fall 2023,Leadership Development,Female,Multiracial,True,Sophomore,Sciences,2,1,3,3,3,5,7,12,0.58,True,False,0.39,The workshops helped me build real-world skills I can use immediately.
+1175,Fall 2023,Experiential Learning,Male,Hispanic/Latino,False,Junior,Liberal Arts,1,2,2,2,3,3,1,12,0.08,False,True,0.01,The hands-on projects gave me practical experience beyond coursework.
+1179,Spring 2024,Leadership Development,Male,Hispanic/Latino,False,Junior,Education,1,1,2,2,2,2,11,12,0.92,True,True,0.2,The resources were helpful but hard to find sometimes.
+1182,Spring 2023,Experiential Learning,Non-binary,White,True,Junior,Education,4,3,1,5,3,1,4,12,0.33,False,False,0.11,I would have liked more one-on-one advising time.
+1185,Fall 2022,Experiential Learning,Prefer not to say,Other,False,Sophomore,Business,4,2,3,5,2,3,2,12,0.17,False,False,0.03,Some sessions were more useful than others.
+1189,Spring 2024,Leadership Development,Female,White,True,Junior,Business,4,3,1,5,4,2,2,12,0.17,False,True,-0.08,I would have liked more one-on-one advising time.
+1191,Fall 2023,Career Readiness,Female,Multiracial,True,Sophomore,Liberal Arts,3,2,2,3,2,2,11,12,0.92,True,True,0.38,Scheduling conflicts made it hard to participate fully.
+1195,Spring 2024,Community Engagement,Non-binary,Other,False,Sophomore,Sciences,1,4,4,2,5,5,2,12,0.17,False,False,-0.02,The workshops helped me build real-world skills I can use immediately.
+1198,Fall 2023,Experiential Learning,Female,Multiracial,False,Senior,Education,1,4,2,2,5,2,2,12,0.17,False,False,0.13,Scheduling conflicts made it hard to participate fully.
+1199,Fall 2024,Career Readiness,Female,Black/African American,False,Senior,Education,2,3,3,3,5,5,1,12,0.08,False,False,0.06,I felt more confident after completing the program milestones.
+1202,Fall 2022,Community Engagement,Non-binary,Hispanic/Latino,True,Junior,Engineering,2,3,3,4,5,5,2,12,0.17,False,False,-0.05,I developed stronger communication and leadership skills.
+1204,Fall 2024,Experiential Learning,Prefer not to say,Multiracial,False,Freshman,Liberal Arts,3,2,2,4,3,3,3,12,0.25,False,True,0.14,I felt more confident after completing the program milestones.
+1209,Fall 2024,Experiential Learning,Non-binary,Multiracial,True,Senior,Business,2,2,2,3,3,4,8,12,0.67,True,False,0.28,I appreciated the structured feedback from program advisors.
+1211,Fall 2024,Career Readiness,Non-binary,White,True,Junior,Education,4,4,3,5,5,4,4,12,0.33,False,False,-0.14,The program connected me with peers who share my interests.
+1212,Spring 2024,Leadership Development,Female,Other,True,Junior,Engineering,2,3,4,3,5,5,4,12,0.33,False,False,0.15,The workshops helped me build real-world skills I can use immediately.
+1216,Fall 2022,Community Engagement,Non-binary,Black/African American,False,Freshman,Liberal Arts,2,1,3,4,3,5,3,12,0.25,False,True,0.17,I appreciated the structured feedback from program advisors.
+1218,Spring 2024,Community Engagement,Female,Asian,True,Junior,Business,2,4,1,3,5,2,11,12,0.92,True,False,0.13,The program was okay but I wish there were more flexible scheduling options.
+1222,Fall 2024,Experiential Learning,Male,Other,True,Junior,Sciences,1,3,2,2,4,3,6,12,0.5,True,True,0.16,The program was okay but I wish there were more flexible scheduling options.
+1227,Fall 2024,Experiential Learning,Prefer not to say,White,True,Senior,Liberal Arts,3,1,3,4,3,5,10,12,0.83,True,False,0.07,The workshops helped me build real-world skills I can use immediately.
+1230,Fall 2024,Leadership Development,Male,Other,False,Senior,Business,2,1,4,2,2,5,6,12,0.5,True,False,0.16,I appreciated the structured feedback from program advisors.
+1233,Fall 2022,Career Readiness,Non-binary,Hispanic/Latino,True,Junior,Liberal Arts,1,3,4,3,5,5,3,12,0.25,False,False,-0.0,The program connected me with peers who share my interests.
+1234,Spring 2024,Experiential Learning,Prefer not to say,Multiracial,True,Junior,Liberal Arts,1,1,3,2,2,4,12,12,1.0,True,True,0.12,I developed stronger communication and leadership skills.
+1239,Spring 2024,Leadership Development,Female,Asian,False,Junior,Education,2,1,2,4,2,3,4,12,0.33,False,False,-0.05,The hands-on projects gave me practical experience beyond coursework.
+1244,Fall 2022,Career Readiness,Prefer not to say,Hispanic/Latino,False,Senior,Engineering,2,3,4,3,4,4,3,12,0.25,False,False,-0.05,I felt more confident after completing the program milestones.
+1247,Fall 2023,Community Engagement,Male,Multiracial,False,Senior,Business,1,2,1,2,3,2,11,12,0.92,True,False,0.39,Scheduling conflicts made it hard to participate fully.
+1250,Fall 2022,Leadership Development,Non-binary,Black/African American,True,Junior,Education,2,1,2,3,2,3,10,12,0.83,True,True,0.3,The program was okay but I wish there were more flexible scheduling options.
+1252,Fall 2024,Experiential Learning,Female,Hispanic/Latino,False,Senior,Education,4,4,1,4,4,2,9,12,0.75,True,True,0.34,I needed more support navigating the application process.
+1257,Fall 2024,Career Readiness,Male,White,True,Freshman,Education,2,3,2,3,3,3,9,12,0.75,True,False,0.32,The program connected me with peers who share my interests.
+1259,Fall 2024,Leadership Development,Male,Other,False,Freshman,Education,2,2,2,3,3,4,10,12,0.83,True,True,0.33,I felt more confident after completing the program milestones.
+1260,Fall 2024,Leadership Development,Male,Multiracial,False,Freshman,Sciences,3,3,4,4,4,5,12,12,1.0,True,True,0.12,I appreciated the structured feedback from program advisors.
+1264,Spring 2023,Leadership Development,Male,Hispanic/Latino,False,Junior,Sciences,2,3,1,3,4,2,2,12,0.17,False,True,0.18,I needed more support navigating the application process.
+1269,Spring 2024,Career Readiness,Male,Hispanic/Latino,False,Sophomore,Business,4,4,4,5,5,5,8,12,0.67,True,False,0.01,I developed stronger communication and leadership skills.
+1270,Fall 2022,Leadership Development,Prefer not to say,Multiracial,False,Junior,Education,1,1,4,1,2,5,1,12,0.08,False,False,0.03,I learned how to network effectively and landed an internship.
+1273,Fall 2024,Leadership Development,Female,White,False,Junior,Education,1,2,1,2,3,2,3,12,0.25,False,True,0.0,The program felt disconnected from my major.
+1274,Fall 2022,Experiential Learning,Male,Other,False,Senior,Education,4,2,2,5,3,3,12,12,1.0,True,False,0.2,The program was okay but I wish there were more flexible scheduling options.
+1279,Fall 2024,Community Engagement,Non-binary,White,True,Junior,Liberal Arts,1,4,3,3,5,4,8,12,0.67,True,True,0.23,I learned how to network effectively and landed an internship.
+1280,Fall 2024,Community Engagement,Male,Multiracial,False,Sophomore,Business,1,1,2,1,1,3,7,12,0.58,True,True,0.21,I appreciated the structured feedback from program advisors.
+1281,Spring 2023,Career Readiness,Non-binary,Other,False,Senior,Liberal Arts,2,4,3,3,5,4,12,12,1.0,True,True,0.14,I learned how to network effectively and landed an internship.
+1284,Fall 2024,Leadership Development,Male,Hispanic/Latino,False,Sophomore,Sciences,3,4,3,4,5,4,10,12,0.83,True,False,0.09,The hands-on projects gave me practical experience beyond coursework.
+1287,Spring 2023,Leadership Development,Female,Hispanic/Latino,True,Junior,Sciences,3,4,2,4,5,3,3,12,0.25,False,True,0.1,I learned how to network effectively and landed an internship.
+1289,Fall 2022,Career Readiness,Male,Asian,True,Senior,Liberal Arts,4,1,2,4,2,2,8,12,0.67,True,True,-0.0,I would have liked more one-on-one advising time.
+1292,Fall 2023,Experiential Learning,Female,Other,True,Freshman,Business,4,2,1,5,4,3,5,12,0.42,False,False,-0.2,Some sessions were more useful than others.
+1297,Fall 2022,Leadership Development,Non-binary,White,False,Sophomore,Education,4,3,2,5,5,4,12,12,1.0,True,True,0.27,The program connected me with peers who share my interests.
+1302,Spring 2023,Career Readiness,Prefer not to say,White,False,Freshman,Sciences,1,2,2,2,3,3,8,12,0.67,True,False,0.38,The program connected me with peers who share my interests.
+1307,Fall 2024,Experiential Learning,Non-binary,Other,False,Sophomore,Engineering,1,4,3,2,5,4,5,12,0.42,False,False,0.06,The program connected me with peers who share my interests.
+1310,Fall 2024,Career Readiness,Male,Black/African American,False,Sophomore,Sciences,3,4,4,5,5,5,11,12,0.92,True,False,0.34,I felt more confident after completing the program milestones.
+1315,Spring 2024,Leadership Development,Female,Multiracial,True,Freshman,Education,2,2,2,3,3,3,10,12,0.83,True,True,0.35,I appreciated the structured feedback from program advisors.
+1316,Spring 2024,Career Readiness,Prefer not to say,White,True,Senior,Liberal Arts,1,4,3,3,5,4,6,12,0.5,True,False,0.17,The workshops helped me build real-world skills I can use immediately.
+1317,Spring 2024,Experiential Learning,Non-binary,White,True,Sophomore,Sciences,3,4,4,5,5,5,11,12,0.92,True,False,-0.03,I developed stronger communication and leadership skills.
+1318,Spring 2023,Community Engagement,Male,Other,True,Freshman,Engineering,3,4,4,4,5,5,5,12,0.42,False,True,0.15,I felt more confident after completing the program milestones.
+1319,Spring 2024,Experiential Learning,Male,Black/African American,True,Freshman,Education,1,4,1,1,5,2,1,12,0.08,False,True,0.2,Some sessions were more useful than others.
+1324,Fall 2023,Leadership Development,Male,Hispanic/Latino,True,Sophomore,Sciences,3,3,1,4,4,2,11,12,0.92,True,True,0.15,I would have liked more one-on-one advising time.
+1328,Fall 2024,Leadership Development,Prefer not to say,White,True,Junior,Sciences,2,4,2,3,5,4,1,12,0.08,False,False,0.19,The mentorship component was incredibly valuable for my career path.
+1332,Spring 2023,Leadership Development,Male,Hispanic/Latino,True,Senior,Liberal Arts,1,2,1,2,3,2,4,12,0.33,False,False,0.04,Scheduling conflicts made it hard to participate fully.
+1337,Spring 2023,Community Engagement,Male,Hispanic/Latino,False,Freshman,Business,2,1,4,4,3,5,4,12,0.33,False,False,0.11,The hands-on projects gave me practical experience beyond coursework.
+1341,Fall 2024,Leadership Development,Non-binary,Hispanic/Latino,False,Senior,Sciences,1,4,3,2,5,5,4,12,0.33,False,False,-0.19,The hands-on projects gave me practical experience beyond coursework.
+1344,Spring 2023,Career Readiness,Non-binary,Black/African American,False,Sophomore,Sciences,3,3,4,5,5,5,6,12,0.5,True,True,0.26,I appreciated the structured feedback from program advisors.
+1346,Fall 2024,Experiential Learning,Female,Asian,True,Freshman,Sciences,2,2,1,3,3,2,10,12,0.83,True,False,0.37,The resources were helpful but hard to find sometimes.
+1350,Fall 2022,Experiential Learning,Prefer not to say,Asian,True,Junior,Education,3,1,4,5,2,5,3,12,0.25,False,True,0.05,The program connected me with peers who share my interests.
+1353,Fall 2023,Community Engagement,Female,Hispanic/Latino,False,Senior,Education,2,2,3,3,3,5,1,12,0.08,False,True,-0.05,I appreciated the structured feedback from program advisors.
+1354,Fall 2022,Career Readiness,Female,White,False,Junior,Education,1,1,2,2,2,3,1,12,0.08,False,False,0.07,The program connected me with peers who share my interests.
+1359,Fall 2024,Experiential Learning,Male,Hispanic/Latino,True,Sophomore,Education,2,4,1,3,5,2,11,12,0.92,True,False,0.07,I needed more support navigating the application process.
+1361,Fall 2022,Leadership Development,Female,Asian,False,Sophomore,Engineering,3,4,3,3,5,3,6,12,0.5,True,False,0.09,The mentorship component was incredibly valuable for my career path.
+1366,Spring 2024,Experiential Learning,Non-binary,Black/African American,True,Freshman,Liberal Arts,2,4,2,3,5,3,5,12,0.42,False,False,0.1,I felt more confident after completing the program milestones.
+1368,Fall 2022,Career Readiness,Prefer not to say,White,False,Freshman,Engineering,1,3,1,2,5,2,7,12,0.58,True,True,-0.06,The program felt disconnected from my major.
+1370,Fall 2024,Career Readiness,Prefer not to say,Black/African American,True,Junior,Liberal Arts,3,4,2,3,5,3,2,12,0.17,False,False,0.18,The resources were helpful but hard to find sometimes.
+1374,Fall 2024,Career Readiness,Prefer not to say,Asian,True,Junior,Engineering,4,3,4,5,4,5,11,12,0.92,True,False,-0.03,I developed stronger communication and leadership skills.
+1379,Spring 2023,Community Engagement,Non-binary,Black/African American,False,Junior,Liberal Arts,4,2,3,5,3,3,10,12,0.83,True,True,0.4,The mentorship component was incredibly valuable for my career path.
+1384,Fall 2022,Community Engagement,Male,White,False,Freshman,Sciences,4,2,3,5,3,4,2,12,0.17,False,False,0.04,The hands-on projects gave me practical experience beyond coursework.
+1389,Fall 2024,Community Engagement,Female,Hispanic/Latino,True,Freshman,Business,3,2,1,4,3,3,6,12,0.5,True,False,0.12,The workshops helped me build real-world skills I can use immediately.
+1390,Fall 2023,Career Readiness,Male,White,False,Senior,Sciences,2,3,1,3,4,2,12,12,1.0,True,True,0.06,The resources were helpful but hard to find sometimes.
+1392,Fall 2024,Community Engagement,Non-binary,White,True,Senior,Sciences,3,1,3,4,1,3,2,12,0.17,False,False,-0.13,The resources were helpful but hard to find sometimes.
+1394,Fall 2024,Career Readiness,Male,Hispanic/Latino,False,Senior,Business,4,2,2,5,3,3,4,12,0.33,False,False,-0.03,The workshops helped me build real-world skills I can use immediately.
+1396,Spring 2023,Leadership Development,Female,Multiracial,True,Sophomore,Liberal Arts,3,2,4,4,3,5,6,12,0.5,True,False,0.21,I felt more confident after completing the program milestones.
+1399,Fall 2023,Community Engagement,Male,Other,False,Freshman,Business,3,1,2,4,2,3,7,12,0.58,True,True,0.19,The hands-on projects gave me practical experience beyond coursework.
+1401,Spring 2024,Career Readiness,Male,White,False,Sophomore,Business,3,4,1,5,5,2,7,12,0.58,True,False,0.15,The resources were helpful but hard to find sometimes.
+1405,Spring 2024,Community Engagement,Prefer not to say,White,True,Freshman,Education,1,2,3,1,2,4,10,12,0.83,True,False,0.28,I felt more confident after completing the program milestones.
+1410,Fall 2022,Leadership Development,Non-binary,Multiracial,True,Senior,Education,2,4,1,3,5,3,1,12,0.08,False,False,-0.06,I felt more confident after completing the program milestones.
+1414,Fall 2022,Career Readiness,Male,Other,False,Senior,Business,2,2,2,3,3,4,3,12,0.25,False,True,0.08,The program connected me with peers who share my interests.
+1419,Fall 2023,Experiential Learning,Male,White,True,Junior,Business,2,2,2,4,4,3,8,12,0.67,True,True,0.22,I would have liked more one-on-one advising time.
+1423,Spring 2024,Community Engagement,Female,Other,True,Senior,Education,3,3,4,4,4,5,12,12,1.0,True,True,0.39,I developed stronger communication and leadership skills.
+1424,Fall 2024,Community Engagement,Male,White,True,Senior,Liberal Arts,3,3,3,4,4,4,11,12,0.92,True,False,-0.08,I appreciated the structured feedback from program advisors.
+1425,Fall 2022,Career Readiness,Prefer not to say,White,True,Senior,Business,2,3,2,4,4,3,2,12,0.17,False,True,0.16,The mentorship component was incredibly valuable for my career path.
+1426,Spring 2024,Leadership Development,Male,White,True,Freshman,Engineering,2,4,1,2,5,1,12,12,1.0,True,True,-0.04,I needed more support navigating the application process.
+1430,Spring 2023,Community Engagement,Female,Black/African American,False,Freshman,Engineering,1,3,3,2,5,5,3,12,0.25,False,False,0.07,I felt more confident after completing the program milestones.
+1435,Fall 2024,Experiential Learning,Male,White,False,Sophomore,Business,4,4,2,4,5,3,7,12,0.58,True,True,0.11,The mentorship component was incredibly valuable for my career path.
+1437,Fall 2023,Experiential Learning,Male,Multiracial,False,Freshman,Liberal Arts,2,2,4,2,3,5,8,12,0.67,True,True,0.02,I felt more confident after completing the program milestones.
+1442,Fall 2022,Leadership Development,Non-binary,Black/African American,False,Senior,Liberal Arts,2,4,1,2,4,1,1,12,0.08,False,False,-0.04,I would have liked more one-on-one advising time.
+1447,Spring 2024,Community Engagement,Prefer not to say,Asian,True,Junior,Engineering,3,1,2,4,3,4,11,12,0.92,True,False,-0.07,The hands-on projects gave me practical experience beyond coursework.
+1449,Fall 2022,Career Readiness,Female,White,True,Senior,Education,1,3,2,2,4,2,6,12,0.5,True,False,0.29,Scheduling conflicts made it hard to participate fully.
+1452,Spring 2023,Leadership Development,Male,Other,False,Freshman,Engineering,3,4,3,4,5,4,8,12,0.67,True,True,0.08,I appreciated the structured feedback from program advisors.
+1457,Spring 2023,Leadership Development,Male,Hispanic/Latino,True,Freshman,Business,1,1,1,2,2,1,1,12,0.08,False,False,0.17,Scheduling conflicts made it hard to participate fully.
+1461,Spring 2023,Leadership Development,Male,White,False,Junior,Engineering,3,1,1,4,2,2,2,12,0.17,False,False,0.15,I needed more support navigating the application process.
+1464,Fall 2023,Experiential Learning,Prefer not to say,Asian,False,Sophomore,Liberal Arts,3,2,4,4,3,5,12,12,1.0,True,False,0.28,I learned how to network effectively and landed an internship.
+1466,Fall 2022,Community Engagement,Female,Black/African American,False,Freshman,Liberal Arts,1,4,3,2,4,4,1,12,0.08,False,False,-0.14,The program connected me with peers who share my interests.
+1467,Fall 2022,Career Readiness,Prefer not to say,Other,False,Senior,Engineering,1,2,4,2,3,5,4,12,0.33,False,True,0.14,The hands-on projects gave me practical experience beyond coursework.
+1470,Fall 2023,Community Engagement,Non-binary,Black/African American,True,Sophomore,Business,1,2,1,2,3,2,4,12,0.33,False,False,-0.01,I needed more support navigating the application process.
+1471,Fall 2022,Career Readiness,Non-binary,Other,True,Sophomore,Liberal Arts,2,1,2,3,2,3,3,12,0.25,False,True,-0.04,I appreciated the structured feedback from program advisors.
+1476,Fall 2024,Career Readiness,Female,White,True,Sophomore,Engineering,1,1,2,2,2,3,11,12,0.92,True,True,0.19,I felt more confident after completing the program milestones.
+1477,Fall 2022,Career Readiness,Prefer not to say,Black/African American,True,Junior,Engineering,1,4,1,2,5,2,1,12,0.08,False,False,-0.03,I would have liked more one-on-one advising time.
+1479,Spring 2023,Leadership Development,Non-binary,White,True,Freshman,Education,2,3,4,3,4,5,3,12,0.25,False,False,0.06,I learned how to network effectively and landed an internship.
+1484,Fall 2022,Community Engagement,Non-binary,White,False,Junior,Education,3,4,3,3,4,4,5,12,0.42,False,True,0.2,I developed stronger communication and leadership skills.
+1489,Spring 2023,Career Readiness,Female,Black/African American,True,Junior,Education,1,2,4,2,3,5,10,12,0.83,True,True,0.27,I developed stronger communication and leadership skills.
+1494,Fall 2022,Leadership Development,Male,Multiracial,True,Senior,Education,3,2,4,3,3,4,8,12,0.67,True,True,0.36,I learned how to network effectively and landed an internship.
+1496,Fall 2023,Career Readiness,Non-binary,Asian,True,Sophomore,Education,2,1,3,3,3,4,2,12,0.17,False,False,-0.07,The mentorship component was incredibly valuable for my career path.
+1500,Spring 2024,Leadership Development,Male,Other,False,Sophomore,Education,2,4,3,3,5,4,12,12,1.0,True,False,0.1,The workshops helped me build real-world skills I can use immediately.
+1502,Fall 2024,Leadership Development,Male,Other,True,Senior,Business,3,1,2,4,2,3,12,12,1.0,True,False,0.26,I developed stronger communication and leadership skills.
+1506,Fall 2022,Leadership Development,Male,Black/African American,True,Junior,Liberal Arts,1,1,1,2,2,2,8,12,0.67,True,False,0.08,The resources were helpful but hard to find sometimes.
+1507,Spring 2024,Career Readiness,Male,White,True,Freshman,Liberal Arts,1,3,3,2,4,4,12,12,1.0,True,True,0.37,I felt more confident after completing the program milestones.
+1510,Fall 2024,Community Engagement,Female,White,True,Senior,Business,1,1,3,1,2,4,12,12,1.0,True,True,0.23,The program connected me with peers who share my interests.
+1512,Fall 2022,Experiential Learning,Prefer not to say,Multiracial,False,Sophomore,Engineering,3,1,4,4,2,5,2,12,0.17,False,True,-0.13,The program connected me with peers who share my interests.
+1513,Spring 2024,Experiential Learning,Non-binary,White,False,Senior,Liberal Arts,1,4,2,2,5,2,8,12,0.67,True,True,0.01,I would have liked more one-on-one advising time.
+1518,Fall 2022,Career Readiness,Female,Asian,False,Senior,Education,2,1,4,3,3,5,8,12,0.67,True,False,0.02,The program connected me with peers who share my interests.
+1519,Spring 2024,Experiential Learning,Male,Asian,False,Sophomore,Business,2,2,2,2,3,2,11,12,0.92,True,True,0.2,I would have liked more one-on-one advising time.
+1520,Fall 2022,Community Engagement,Prefer not to say,Multiracial,False,Junior,Education,4,1,4,4,2,5,2,12,0.17,False,False,0.03,I felt more confident after completing the program milestones.
+1523,Fall 2024,Leadership Development,Prefer not to say,Hispanic/Latino,False,Senior,Education,4,1,2,4,2,3,1,12,0.08,False,False,0.15,The resources were helpful but hard to find sometimes.
+1525,Fall 2022,Community Engagement,Non-binary,Hispanic/Latino,True,Junior,Liberal Arts,3,3,4,5,5,5,5,12,0.42,False,False,-0.02,I developed stronger communication and leadership skills.
+1528,Spring 2024,Experiential Learning,Male,White,True,Senior,Sciences,3,1,2,4,2,3,9,12,0.75,True,False,-0.09,I learned how to network effectively and landed an internship.
+1530,Fall 2022,Career Readiness,Female,White,True,Junior,Business,3,3,4,4,4,5,6,12,0.5,True,True,0.12,I appreciated the structured feedback from program advisors.
+1535,Fall 2024,Leadership Development,Non-binary,Black/African American,False,Freshman,Liberal Arts,1,4,1,2,5,2,11,12,0.92,True,True,0.0,Scheduling conflicts made it hard to participate fully.
+1539,Fall 2024,Experiential Learning,Female,White,True,Sophomore,Education,1,2,3,2,3,4,5,12,0.42,False,False,-0.05,I developed stronger communication and leadership skills.
+1543,Fall 2023,Career Readiness,Prefer not to say,Hispanic/Latino,False,Freshman,Engineering,3,3,3,4,4,4,6,12,0.5,True,False,0.03,The program connected me with peers who share my interests.
+1545,Spring 2023,Career Readiness,Female,Multiracial,False,Junior,Business,1,4,3,2,5,3,12,12,1.0,True,False,0.31,I developed stronger communication and leadership skills.
+1547,Fall 2024,Community Engagement,Non-binary,Multiracial,False,Sophomore,Education,2,3,1,3,4,2,3,12,0.25,False,False,0.16,Scheduling conflicts made it hard to participate fully.
+1548,Spring 2023,Leadership Development,Male,Other,False,Senior,Liberal Arts,3,3,3,4,4,4,10,12,0.83,True,False,-0.06,I learned how to network effectively and landed an internship.
+1553,Fall 2022,Community Engagement,Non-binary,White,True,Sophomore,Business,2,3,4,4,5,5,12,12,1.0,True,True,-0.06,I developed stronger communication and leadership skills.
+1555,Fall 2023,Experiential Learning,Female,White,False,Sophomore,Business,2,4,1,3,5,2,8,12,0.67,True,True,-0.08,Some sessions were more useful than others.
+1558,Fall 2022,Leadership Development,Male,Asian,True,Sophomore,Business,3,3,2,4,3,2,1,12,0.08,False,True,-0.08,Scheduling conflicts made it hard to participate fully.
+1563,Fall 2024,Leadership Development,Prefer not to say,Other,True,Junior,Sciences,3,2,2,5,4,3,12,12,1.0,True,False,0.01,The workshops helped me build real-world skills I can use immediately.
+1568,Fall 2024,Career Readiness,Female,Hispanic/Latino,True,Senior,Liberal Arts,1,1,1,2,2,2,7,12,0.58,True,True,0.03,Scheduling conflicts made it hard to participate fully.
+1570,Spring 2023,Experiential Learning,Non-binary,White,True,Junior,Education,2,4,1,3,5,2,8,12,0.67,True,True,-0.0,I would have liked more one-on-one advising time.
+1575,Spring 2023,Leadership Development,Prefer not to say,Hispanic/Latino,True,Freshman,Education,4,2,4,4,3,5,10,12,0.83,True,False,-0.03,I felt more confident after completing the program milestones.
+1580,Fall 2022,Experiential Learning,Non-binary,Other,True,Senior,Liberal Arts,3,4,1,3,4,1,11,12,0.92,True,True,0.27,The program was okay but I wish there were more flexible scheduling options.
+1581,Fall 2022,Career Readiness,Male,Hispanic/Latino,False,Senior,Education,3,1,3,4,2,5,5,12,0.42,False,False,0.08,I appreciated the structured feedback from program advisors.
+1585,Spring 2023,Experiential Learning,Male,Other,True,Sophomore,Engineering,4,4,4,5,5,4,11,12,0.92,True,False,0.26,The mentorship component was incredibly valuable for my career path.
+1589,Spring 2024,Experiential Learning,Prefer not to say,White,True,Freshman,Liberal Arts,3,1,2,5,3,4,12,12,1.0,True,False,0.12,I learned how to network effectively and landed an internship.
+1593,Fall 2023,Community Engagement,Male,Multiracial,True,Freshman,Business,4,4,2,4,4,3,1,12,0.08,False,False,0.02,The hands-on projects gave me practical experience beyond coursework.
+1597,Spring 2023,Experiential Learning,Prefer not to say,White,False,Freshman,Sciences,4,3,1,5,4,3,1,12,0.08,False,False,-0.2,I felt more confident after completing the program milestones.
+1602,Fall 2024,Leadership Development,Male,Other,False,Junior,Liberal Arts,1,2,4,2,3,5,6,12,0.5,True,False,-0.04,I learned how to network effectively and landed an internship.
+1603,Fall 2023,Leadership Development,Non-binary,Multiracial,False,Freshman,Engineering,2,4,2,4,5,3,4,12,0.33,False,True,0.17,The hands-on projects gave me practical experience beyond coursework.
+1605,Spring 2024,Career Readiness,Non-binary,Asian,False,Freshman,Education,1,4,4,3,5,5,9,12,0.75,True,False,0.18,The hands-on projects gave me practical experience beyond coursework.
+1610,Spring 2024,Career Readiness,Male,Other,True,Freshman,Sciences,3,4,4,5,5,5,6,12,0.5,True,False,0.13,The mentorship component was incredibly valuable for my career path.
+1612,Spring 2024,Leadership Development,Non-binary,Other,True,Sophomore,Business,3,3,2,5,5,4,12,12,1.0,True,False,0.26,I developed stronger communication and leadership skills.
+1617,Spring 2024,Community Engagement,Non-binary,White,True,Freshman,Engineering,4,2,1,5,4,2,5,12,0.42,False,False,-0.14,The program was okay but I wish there were more flexible scheduling options.
+1620,Spring 2023,Experiential Learning,Non-binary,White,True,Sophomore,Education,4,2,3,5,3,4,11,12,0.92,True,True,0.18,The workshops helped me build real-world skills I can use immediately.
+1623,Spring 2023,Community Engagement,Male,Other,False,Sophomore,Business,3,4,2,4,5,4,2,12,0.17,False,True,-0.03,The program connected me with peers who share my interests.
+1625,Spring 2023,Leadership Development,Female,Hispanic/Latino,False,Sophomore,Engineering,2,3,1,3,5,2,10,12,0.83,True,False,-0.06,Scheduling conflicts made it hard to participate fully.
+1628,Fall 2024,Career Readiness,Male,Multiracial,True,Sophomore,Sciences,4,1,3,4,2,4,4,12,0.33,False,False,0.05,I appreciated the structured feedback from program advisors.
+1633,Fall 2022,Experiential Learning,Non-binary,White,True,Sophomore,Engineering,3,4,1,4,5,2,6,12,0.5,True,False,0.15,The resources were helpful but hard to find sometimes.
+1634,Fall 2023,Career Readiness,Non-binary,Multiracial,True,Freshman,Business,1,1,2,2,3,3,2,12,0.17,False,True,0.13,The resources were helpful but hard to find sometimes.
+1638,Fall 2022,Career Readiness,Female,White,False,Freshman,Engineering,1,1,2,2,3,3,5,12,0.42,False,False,-0.02,The hands-on projects gave me practical experience beyond coursework.
+1642,Fall 2023,Experiential Learning,Prefer not to say,Other,True,Freshman,Education,1,1,1,2,2,2,10,12,0.83,True,True,0.28,The resources were helpful but hard to find sometimes.
+1646,Spring 2024,Experiential Learning,Prefer not to say,Black/African American,True,Sophomore,Sciences,3,2,3,5,4,5,6,12,0.5,True,False,-0.09,The mentorship component was incredibly valuable for my career path.
+1647,Fall 2022,Experiential Learning,Prefer not to say,Multiracial,True,Junior,Business,3,2,4,5,3,5,10,12,0.83,True,False,-0.0,The mentorship component was incredibly valuable for my career path.
+1652,Fall 2022,Community Engagement,Female,Hispanic/Latino,True,Junior,Engineering,2,4,3,3,5,4,2,12,0.17,False,False,-0.07,I appreciated the structured feedback from program advisors.
+1655,Fall 2024,Leadership Development,Male,Multiracial,False,Junior,Sciences,2,1,3,2,2,4,6,12,0.5,True,True,0.27,I appreciated the structured feedback from program advisors.
+1659,Spring 2024,Leadership Development,Non-binary,White,True,Sophomore,Education,1,3,2,2,5,4,12,12,1.0,True,True,-0.09,The workshops helped me build real-world skills I can use immediately.
+1664,Fall 2024,Community Engagement,Male,Asian,False,Senior,Business,3,4,2,5,5,3,9,12,0.75,True,True,0.1,The program was okay but I wish there were more flexible scheduling options.
+1665,Spring 2023,Career Readiness,Male,White,True,Sophomore,Education,2,4,3,3,4,3,4,12,0.33,False,True,-0.12,I developed stronger communication and leadership skills.
+1669,Spring 2024,Community Engagement,Female,Asian,False,Freshman,Education,3,3,2,4,4,3,2,12,0.17,False,False,-0.05,I learned how to network effectively and landed an internship.
+1674,Spring 2024,Leadership Development,Non-binary,White,False,Freshman,Education,2,4,2,3,5,2,3,12,0.25,False,False,0.09,The program was okay but I wish there were more flexible scheduling options.
+1676,Spring 2024,Leadership Development,Female,White,False,Senior,Business,2,4,1,2,5,1,9,12,0.75,True,True,0.19,The program was okay but I wish there were more flexible scheduling options.
+1678,Fall 2023,Career Readiness,Prefer not to say,Multiracial,True,Junior,Engineering,2,4,4,3,5,5,10,12,0.83,True,False,-0.01,The program connected me with peers who share my interests.
+1680,Fall 2023,Community Engagement,Female,Black/African American,False,Senior,Business,1,1,2,2,2,3,10,12,0.83,True,True,0.14,Some sessions were more useful than others.
+1685,Fall 2022,Experiential Learning,Female,White,True,Freshman,Sciences,4,3,1,5,5,2,7,12,0.58,True,True,0.3,I needed more support navigating the application process.
+1690,Fall 2022,Community Engagement,Male,Hispanic/Latino,False,Sophomore,Engineering,3,4,3,4,5,4,2,12,0.17,False,False,-0.05,I learned how to network effectively and landed an internship.
+1693,Spring 2024,Leadership Development,Female,Black/African American,False,Junior,Liberal Arts,4,3,3,5,4,5,9,12,0.75,True,True,0.09,I appreciated the structured feedback from program advisors.
+1696,Fall 2023,Leadership Development,Prefer not to say,Other,True,Freshman,Business,4,2,1,5,3,2,12,12,1.0,True,False,-0.07,The resources were helpful but hard to find sometimes.
+1697,Fall 2022,Career Readiness,Prefer not to say,Multiracial,False,Freshman,Engineering,3,2,3,3,3,4,10,12,0.83,True,False,0.04,The workshops helped me build real-world skills I can use immediately.
+1699,Spring 2024,Community Engagement,Female,Black/African American,False,Sophomore,Engineering,2,2,1,3,3,1,5,12,0.42,False,False,-0.06,The resources were helpful but hard to find sometimes.
+1703,Fall 2024,Career Readiness,Female,Other,True,Freshman,Education,3,3,3,4,5,4,7,12,0.58,True,False,0.03,The hands-on projects gave me practical experience beyond coursework.
+1708,Fall 2022,Experiential Learning,Non-binary,Hispanic/Latino,True,Junior,Education,3,4,4,4,5,5,8,12,0.67,True,False,0.35,The workshops helped me build real-world skills I can use immediately.
+1712,Fall 2022,Leadership Development,Female,White,True,Sophomore,Liberal Arts,4,3,1,5,4,2,12,12,1.0,True,False,-0.06,Some sessions were more useful than others.
+1716,Fall 2023,Leadership Development,Male,Multiracial,False,Sophomore,Business,4,2,2,5,3,3,4,12,0.33,False,False,-0.06,I felt more confident after completing the program milestones.
+1717,Fall 2022,Community Engagement,Female,Multiracial,True,Senior,Liberal Arts,3,4,3,4,5,4,4,12,0.33,False,False,-0.15,The hands-on projects gave me practical experience beyond coursework.
+1721,Fall 2024,Experiential Learning,Non-binary,White,True,Senior,Engineering,4,3,1,4,4,1,10,12,0.83,True,False,-0.01,I would have liked more one-on-one advising time.
+1723,Fall 2023,Community Engagement,Non-binary,Hispanic/Latino,True,Senior,Sciences,2,4,3,3,5,4,10,12,0.83,True,False,0.31,The program connected me with peers who share my interests.
+1725,Fall 2024,Community Engagement,Prefer not to say,Black/African American,True,Sophomore,Sciences,1,2,4,2,3,5,12,12,1.0,True,True,0.14,The program connected me with peers who share my interests.
+1730,Fall 2024,Experiential Learning,Prefer not to say,Asian,True,Freshman,Business,3,4,1,4,5,2,5,12,0.42,False,True,-0.04,I would have liked more one-on-one advising time.
+1735,Spring 2023,Career Readiness,Non-binary,Hispanic/Latino,False,Senior,Sciences,1,4,3,2,5,4,6,12,0.5,True,True,0.21,The hands-on projects gave me practical experience beyond coursework.
+1736,Fall 2022,Career Readiness,Non-binary,Black/African American,False,Junior,Liberal Arts,3,4,3,5,5,5,9,12,0.75,True,False,0.11,The mentorship component was incredibly valuable for my career path.
+1737,Spring 2023,Career Readiness,Non-binary,Other,True,Sophomore,Business,4,1,1,5,2,1,7,12,0.58,True,True,0.4,The program was okay but I wish there were more flexible scheduling options.
+1740,Fall 2024,Career Readiness,Female,Other,False,Junior,Business,2,3,4,3,5,5,11,12,0.92,True,True,0.36,I appreciated the structured feedback from program advisors.
+1744,Fall 2024,Leadership Development,Prefer not to say,Black/African American,True,Senior,Education,4,3,3,5,4,4,7,12,0.58,True,True,0.05,The workshops helped me build real-world skills I can use immediately.
+1749,Spring 2023,Leadership Development,Non-binary,White,True,Senior,Sciences,3,1,4,4,3,5,4,12,0.33,False,False,0.02,The hands-on projects gave me practical experience beyond coursework.
+1751,Spring 2023,Community Engagement,Prefer not to say,Black/African American,False,Freshman,Sciences,2,3,3,3,4,4,2,12,0.17,False,True,-0.08,I appreciated the structured feedback from program advisors.
+1756,Spring 2024,Leadership Development,Prefer not to say,Black/African American,False,Freshman,Business,1,1,2,2,2,4,1,12,0.08,False,True,-0.14,I appreciated the structured feedback from program advisors.
+1758,Fall 2023,Community Engagement,Non-binary,White,False,Senior,Engineering,3,1,2,4,1,2,4,12,0.33,False,False,-0.1,The resources were helpful but hard to find sometimes.
+1759,Fall 2022,Career Readiness,Prefer not to say,White,True,Freshman,Business,4,1,2,5,2,3,11,12,0.92,True,False,0.27,The program was okay but I wish there were more flexible scheduling options.
+1764,Fall 2022,Leadership Development,Prefer not to say,Other,False,Sophomore,Liberal Arts,1,2,1,2,2,2,10,12,0.83,True,True,0.29,The program was okay but I wish there were more flexible scheduling options.
+1765,Fall 2024,Community Engagement,Male,Hispanic/Latino,True,Sophomore,Business,4,1,3,5,3,4,11,12,0.92,True,True,0.17,I felt more confident after completing the program milestones.
+1767,Spring 2024,Career Readiness,Non-binary,Multiracial,False,Senior,Business,1,4,3,2,5,5,9,12,0.75,True,True,0.25,I learned how to network effectively and landed an internship.
+1772,Spring 2023,Leadership Development,Non-binary,Other,False,Junior,Education,2,1,2,3,2,3,11,12,0.92,True,False,0.27,The workshops helped me build real-world skills I can use immediately.
+1777,Fall 2023,Career Readiness,Non-binary,Other,True,Senior,Business,4,2,3,5,3,4,2,12,0.17,False,True,0.18,The mentorship component was incredibly valuable for my career path.
+1778,Spring 2023,Experiential Learning,Prefer not to say,Black/African American,True,Freshman,Education,4,4,3,4,5,3,4,12,0.33,False,False,0.17,I felt more confident after completing the program milestones.
+1782,Fall 2022,Leadership Development,Prefer not to say,Hispanic/Latino,True,Junior,Education,1,1,3,1,2,3,4,12,0.33,False,False,-0.12,The program was okay but I wish there were more flexible scheduling options.
+1784,Fall 2024,Career Readiness,Prefer not to say,Other,True,Junior,Sciences,4,1,2,5,2,4,9,12,0.75,True,False,0.12,I developed stronger communication and leadership skills.
+1787,Fall 2024,Leadership Development,Non-binary,White,False,Junior,Education,2,2,4,4,3,5,8,12,0.67,True,False,-0.1,The workshops helped me build real-world skills I can use immediately.
+1790,Fall 2024,Experiential Learning,Male,Hispanic/Latino,True,Junior,Business,2,3,1,4,5,3,9,12,0.75,True,True,0.36,The mentorship component was incredibly valuable for my career path.
+1791,Fall 2022,Community Engagement,Non-binary,Black/African American,True,Junior,Liberal Arts,2,2,3,3,3,5,12,12,1.0,True,True,0.06,I appreciated the structured feedback from program advisors.
+1793,Spring 2024,Experiential Learning,Non-binary,Asian,False,Freshman,Engineering,3,3,4,4,4,5,11,12,0.92,True,False,0.36,The hands-on projects gave me practical experience beyond coursework.
+1794,Fall 2023,Experiential Learning,Non-binary,Multiracial,True,Junior,Education,2,2,1,4,4,3,10,12,0.83,True,False,0.01,The program connected me with peers who share my interests.
+1798,Spring 2023,Career Readiness,Non-binary,Asian,False,Freshman,Education,4,3,1,5,4,2,8,12,0.67,True,False,0.14,Scheduling conflicts made it hard to participate fully.
+1803,Spring 2023,Career Readiness,Male,Asian,False,Senior,Liberal Arts,1,1,4,2,2,5,1,12,0.08,False,False,-0.13,I developed stronger communication and leadership skills.
+1808,Spring 2024,Career Readiness,Prefer not to say,Asian,True,Sophomore,Liberal Arts,2,1,1,3,2,2,5,12,0.42,False,True,0.08,The program was okay but I wish there were more flexible scheduling options.
+1811,Spring 2024,Community Engagement,Female,Hispanic/Latino,True,Sophomore,Business,3,4,2,4,5,4,9,12,0.75,True,True,-0.01,The program connected me with peers who share my interests.
+1813,Fall 2024,Leadership Development,Female,White,True,Freshman,Sciences,3,3,1,4,4,1,7,12,0.58,True,False,0.25,I would have liked more one-on-one advising time.
+1817,Fall 2024,Experiential Learning,Male,Black/African American,False,Freshman,Engineering,2,3,3,3,4,4,6,12,0.5,True,False,0.02,The program connected me with peers who share my interests.
+1818,Fall 2023,Community Engagement,Female,Multiracial,False,Sophomore,Business,3,4,2,3,5,3,11,12,0.92,True,False,0.11,Some sessions were more useful than others.
+1820,Spring 2024,Leadership Development,Non-binary,White,True,Sophomore,Business,2,2,3,4,4,4,3,12,0.25,False,False,0.03,The mentorship component was incredibly valuable for my career path.
+1823,Fall 2022,Experiential Learning,Male,Hispanic/Latino,True,Freshman,Liberal Arts,4,4,3,5,5,4,5,12,0.42,False,True,-0.12,The mentorship component was incredibly valuable for my career path.
+1825,Fall 2022,Leadership Development,Male,Multiracial,True,Sophomore,Engineering,3,1,4,4,2,5,3,12,0.25,False,False,-0.0,The mentorship component was incredibly valuable for my career path.
+1827,Spring 2023,Career Readiness,Female,White,True,Junior,Sciences,2,2,2,3,3,3,8,12,0.67,True,False,0.33,I learned how to network effectively and landed an internship.
+1831,Spring 2024,Experiential Learning,Prefer not to say,Other,False,Senior,Education,1,1,4,2,2,5,9,12,0.75,True,True,0.27,The hands-on projects gave me practical experience beyond coursework.
+1836,Fall 2022,Career Readiness,Non-binary,White,False,Junior,Liberal Arts,4,2,4,5,3,5,8,12,0.67,True,False,0.13,I felt more confident after completing the program milestones.
+1838,Fall 2024,Career Readiness,Prefer not to say,White,False,Senior,Engineering,2,4,2,3,5,4,12,12,1.0,True,False,0.26,I felt more confident after completing the program milestones.
+1839,Fall 2022,Community Engagement,Non-binary,Asian,False,Sophomore,Sciences,4,1,2,5,3,3,3,12,0.25,False,True,0.08,The hands-on projects gave me practical experience beyond coursework.
+1842,Fall 2023,Community Engagement,Non-binary,Other,True,Freshman,Business,2,1,3,2,2,4,10,12,0.83,True,False,0.02,I appreciated the structured feedback from program advisors.
+1846,Spring 2024,Community Engagement,Female,Multiracial,True,Sophomore,Education,3,2,1,3,3,1,1,12,0.08,False,False,0.14,I would have liked more one-on-one advising time.
+1849,Fall 2022,Experiential Learning,Female,White,True,Sophomore,Liberal Arts,2,4,3,3,5,4,7,12,0.58,True,False,0.28,I felt more confident after completing the program milestones.
+1852,Spring 2024,Career Readiness,Female,Other,False,Junior,Education,4,2,2,5,3,3,2,12,0.17,False,False,0.08,The resources were helpful but hard to find sometimes.
+1855,Spring 2024,Leadership Development,Non-binary,Multiracial,False,Sophomore,Education,4,4,4,5,5,5,4,12,0.33,False,True,-0.19,I felt more confident after completing the program milestones.
+1857,Fall 2024,Community Engagement,Prefer not to say,Asian,False,Junior,Education,2,1,2,3,2,3,9,12,0.75,True,True,-0.1,I would have liked more one-on-one advising time.
+1860,Fall 2023,Community Engagement,Female,Black/African American,True,Junior,Liberal Arts,4,4,1,5,5,3,9,12,0.75,True,False,0.13,The hands-on projects gave me practical experience beyond coursework.
+1861,Fall 2024,Leadership Development,Non-binary,Multiracial,True,Sophomore,Education,3,3,1,4,4,3,11,12,0.92,True,False,-0.02,Some sessions were more useful than others.
+1865,Spring 2023,Experiential Learning,Non-binary,Other,False,Freshman,Liberal Arts,4,1,4,5,3,5,9,12,0.75,True,True,-0.04,The workshops helped me build real-world skills I can use immediately.
+1867,Fall 2022,Community Engagement,Female,White,True,Sophomore,Liberal Arts,4,3,3,5,4,4,11,12,0.92,True,False,0.0,The workshops helped me build real-world skills I can use immediately.
+1871,Spring 2024,Experiential Learning,Female,Hispanic/Latino,True,Freshman,Liberal Arts,4,1,1,5,2,2,5,12,0.42,False,False,-0.12,Some sessions were more useful than others.
+1873,Fall 2023,Leadership Development,Non-binary,White,True,Junior,Business,2,3,1,3,4,1,6,12,0.5,True,True,0.04,Scheduling conflicts made it hard to participate fully.
+1876,Fall 2024,Career Readiness,Male,Asian,False,Junior,Education,4,1,2,5,1,2,2,12,0.17,False,False,-0.13,The program felt disconnected from my major.
+1881,Spring 2024,Leadership Development,Non-binary,Hispanic/Latino,True,Freshman,Sciences,2,1,4,2,2,5,8,12,0.67,True,True,0.01,The program connected me with peers who share my interests.
+1884,Spring 2024,Career Readiness,Non-binary,Hispanic/Latino,False,Senior,Engineering,1,4,1,2,5,2,10,12,0.83,True,False,0.15,The resources were helpful but hard to find sometimes.
+1885,Fall 2023,Experiential Learning,Non-binary,Multiracial,False,Senior,Education,4,2,2,5,3,3,12,12,1.0,True,False,0.29,The hands-on projects gave me practical experience beyond coursework.
+1890,Fall 2023,Career Readiness,Male,Other,True,Senior,Engineering,4,3,1,5,5,2,2,12,0.17,False,False,0.04,I needed more support navigating the application process.
+1894,Fall 2023,Community Engagement,Female,Asian,True,Sophomore,Education,1,2,2,2,3,3,4,12,0.33,False,False,-0.07,Some sessions were more useful than others.
+1897,Spring 2024,Leadership Development,Female,Multiracial,True,Senior,Business,3,1,3,5,2,5,6,12,0.5,True,True,0.04,The workshops helped me build real-world skills I can use immediately.
+1899,Spring 2024,Community Engagement,Non-binary,Other,False,Senior,Sciences,4,2,2,5,3,3,7,12,0.58,True,True,0.4,I would have liked more one-on-one advising time.
+1901,Spring 2023,Experiential Learning,Female,Other,True,Sophomore,Sciences,4,2,1,5,3,2,12,12,1.0,True,False,0.11,Some sessions were more useful than others.
+1905,Fall 2024,Community Engagement,Prefer not to say,White,False,Sophomore,Business,4,1,4,5,3,5,9,12,0.75,True,True,-0.08,The workshops helped me build real-world skills I can use immediately.
