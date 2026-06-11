@@ -181,12 +181,8 @@ Share `reports/summary_report.txt` and figures with program leads after each sem
 
 **Sailee Choudhari**  
 M.S. Data Analytics Engineering, Northeastern University  
-[LinkedIn](https://www.linkedin.com/in/sailee-choudhari/) | [Portfolio](https://portfoliosailee.my.canva.site/)
+[LinkedIn](https://www.linkedin.com/in/sailee-choudhari/) 
 
----
 
-## 📄 License
-
-MIT License — free to use, adapt, and build on.
 
 
